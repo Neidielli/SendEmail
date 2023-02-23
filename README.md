@@ -10,4 +10,9 @@
 * IDE de desenvolvimento: Visual Code; 
 * FrameWork: Bootstrap; 
 * Bibliotecas: PHPMailer v.6.0.5;
- 
+
+# ⚡ Melhorias:
+
+* Segurança no Back-end.
+
+# ⚙️ Execução:
